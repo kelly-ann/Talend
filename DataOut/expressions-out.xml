@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+<customer>
+<id>1</id>
+<name>John Black</name>
+<address_1>123 North Street, West Hill</address_1>
+<address_2>Nottingham, Nottinghamshire, NG1 3RD</address_2>
+<telephone_number>01153213333</telephone_number>
+</customer>
+<customer>
+<id>2</id>
+<name>Joan Grey</name>
+<address_1>45 South Drive</address_1>
+<address_2>Manchester, Greater Manchester, M32 4RT</address_2>
+<telephone_number>01615648974</telephone_number>
+</customer>
+<customer>
+<id>3</id>
+<name>Bill Brown</name>
+<address_1>78 West Avenue, The Green</address_1>
+<address_2>Birmingham, West Midlands, B22 5TG</address_2>
+<telephone_number>01216355656</telephone_number>
+</customer>
+<customer>
+<id>4</id>
+<name>Mary White</name>
+<address_1>99 East Boulevard, Highgate</address_1>
+<address_2>Brighton, Sussex, BN21 3DD</address_2>
+<telephone_number>01273323232</telephone_number>
+</customer>
+</root>
